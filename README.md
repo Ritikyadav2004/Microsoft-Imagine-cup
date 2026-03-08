@@ -38,15 +38,15 @@ EduSphere solves this problem by providing **interactive 3D visualizations of ex
 
 For example:
 
-If a student selects **Class 10 Science**, they can choose a topic like **Rutherford Atomic Model**.
+After clicking it, EduSphere will show a **3D visualization of Rutherford’s Alpha Particle Scattering Experiment**, where students can observe:
 
-After clicking it, EduSphere will show a **3D visualization of Rutherford’s Atomic Model**, where students can observe:
+* **Alpha particles being fired toward a thin gold foil**
+* **Most alpha particles passing straight through the foil**
+* **Some particles slightly deflecting**
+* **A very small number of particles bouncing back**
 
-* The **nucleus at the center**
-* **Electrons revolving around the nucleus**
-* The **structure of the atom**
+This visualization helps students understand how Rutherford discovered that **atoms have a small, dense, positively charged nucleus**, which led to the development of the **Rutherford Atomic Model**. Seeing this experiment visually makes the concept much easier to understand than only reading it in a textbook.
 
-This helps students understand the concept much better than only reading it in a textbook.
 
 ---
 
